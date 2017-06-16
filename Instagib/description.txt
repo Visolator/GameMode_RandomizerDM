@@ -1,0 +1,4 @@
+Title: Instagib Player
+Author: Bushido
+
+Different code by Visolator
